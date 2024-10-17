@@ -1,4 +1,4 @@
-package be.digitalycity.java.bxl_java24_stockmanagement.dal.repositories;
+package be.digitalycity.java.bxl_java24_stockmanagement.dal.repositories.stock;
 
 import be.digitalycity.java.bxl_java24_stockmanagement.dl.entities.stock.Article;
 import org.springframework.data.jpa.repository.JpaRepository;

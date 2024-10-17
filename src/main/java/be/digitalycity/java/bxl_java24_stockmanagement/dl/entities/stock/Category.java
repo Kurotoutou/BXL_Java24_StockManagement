@@ -3,7 +3,6 @@ package be.digitalycity.java.bxl_java24_stockmanagement.dl.entities.stock;
 import be.digitalycity.java.bxl_java24_stockmanagement.dl.entities.BaseEntity;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
 import lombok.*;
 
 import java.util.UUID;

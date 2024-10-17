@@ -6,8 +6,7 @@ import lombok.*;
 
 import java.util.UUID;
 
-@Entity
-@Inheritance(strategy = InheritanceType.TABLE_PER_CLASS)
+@MappedSuperclass
 @Getter @Setter
 @NoArgsConstructor
 @EqualsAndHashCode(callSuper = true) @ToString(callSuper = true)
